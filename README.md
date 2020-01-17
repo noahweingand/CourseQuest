@@ -14,9 +14,11 @@ Working phone emulator/SDK:
 - Pixel 2 API 28
 - Pixel 2 API 29
 
-## Contributors
+## Other Contributors
 
 Members: Noah Weingand, Sage Thompson, Christopher Flippen, Jeetika Sainani, and Araf Rahman
+
+I worked on the Skill Share web scrapper (src/java/SkillShareScraper.java) to accumulate course data using Jsoup, a java package for parsing HTML/CSS content, and displaying results from Skill Share in the app. 
 
 ## Espresso Testing Issues
 
