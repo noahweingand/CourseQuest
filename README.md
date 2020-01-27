@@ -4,7 +4,7 @@ CourseQuest is an Android application that aggregates online courses based on a 
 
 ## Installation
 
-The application is still underdevelopment and is not on the Google Play Store. To obtain a version, pull the code and emulate via Android Studio. If it cannot recognize the jsoup package, add the jar as an external library.
+The application is still underdevelopment and is not on the Google Play Store. To obtain a version, pull the code and emulate via Android Studio. If it cannot recognize the jsoup package, add the jar as an external library. 
 
 Target API: 29
 
@@ -18,7 +18,7 @@ Working phone emulator/SDK:
 
 Members: Noah Weingand, Sage Thompson, Christopher Flippen, Jeetika Sainani, and Araf Rahman
 
-I worked on the Skill Share web scrapper (src/java/SkillShareScraper.java) to accumulate course data using Jsoup, a java package for parsing HTML/CSS content, and displaying results from Skill Share in the app. 
+I worked on the Skill Share web scrapper (src/java/SkillShareScraper.java) to accumulate course data using Jsoup, a java package for parsing HTML/CSS content, and displaying results from Skill Share in the app. I also used Espresso Android to test the user interface (buttons, filters, activities) of the app.
 
 ## Espresso Testing Issues
 
