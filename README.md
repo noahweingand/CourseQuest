@@ -1,6 +1,6 @@
 # CourseQuest
 
-CourseQuest is an Android application that aggregates online courses based on a user's search.
+CourseQuest is an Android mobile application that aggregates online courses based on a user's search.
 
 ## Installation
 
